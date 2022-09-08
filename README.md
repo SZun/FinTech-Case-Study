@@ -30,7 +30,7 @@
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
-* According to this article on **The Ascent by Motley Fool** written by *Lyle Daly*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) some of Robinhoods major competitors include ***Charles Schwab, Fidelity, Bank of America/Merrill Lynch, Coinbase, Ally Invest, Vanguard and J.P. Morgan***. Through the illustration of some of the graphs, we can tell that Robinhood is 5th in AUM, 4th in market size as well as average assets per client as seen in the images below: ![AUM](./assets/AUM.png)![Clients](./assets/Clients.png)![Average Assets](./assets/AVC.png)
+* According to this article on **The Ascent by Motley Fool** written by *Lyle Daly*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) some of Robinhoods major competitors include ***Charles Schwab, Fidelity, Bank of America/Merrill Lynch, Coinbase, Ally Invest, Vanguard and J.P. Morgan***. Through the illustration of some of the graphs, we can tell that Robinhood is 5th in AUM, 4th in market size, and 4th in average assets per client (closely followed by *Coinbase*) as seen in the graphs below. ![AUM](./assets/AUM.png)![Clients](./assets/Clients.png)![Average Assets](./assets/AVC.png)
 
 
 ## Results
