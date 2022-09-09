@@ -21,7 +21,8 @@
 
 * The somewhat unfair advantage that `Robinhood` has had from its inception is that unlike some of thier competitors such as ***Charles Schwab, Fidelity Investments, E-TRADE, and TD Ameritrade***, `Robinhood` does not charge its customers commissions. Another advantage `Robinhood` has is the fact that they allow trading through a mobile application, which many of its competitors listed above do not have. This has amde trading much more accessible and streamling for their customers that are either new to trading or can not afford to use a desktop application as well as commission fees. ![RBH Mobile](./assets/rbh-mobile-2.jpeg)
 
-* The technologies used to implement `Robinhood`'s applications can be seen below in an image from **StackShare** linked here: [Robinhood Stackshare](https://tinyurl.com/robinhood-stackshare). Some of the major technologies include *Meta's React for Front-End development, PostgresSQL as a Database, ElasticSearch & ELK for indexed searching and logging, Docker for containerization, Jenkins automation servers, and Slack for communication.* ![Robinhood Tech Stack](./assets/Robinhood-Tech-Stack.png)
+* The technologies used to implement `Robinhood`'s applications can be seen below in an image from **StackShare** linked here: [Robinhood Stackshare](https://tinyurl.com/robinhood-stackshare). Some of the major technologies include *Meta's React for Front-End development, PostgresSQL as a Database, ElasticSearch & ELK for indexed searching and logging, Docker for containerization, Jenkins automation servers, and Slack for business communication.* 
+![Robinhood Tech Stack](./assets/Robinhood-Tech-Stack.png)
 
 
 ## Landscape
