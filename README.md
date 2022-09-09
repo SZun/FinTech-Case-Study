@@ -52,9 +52,9 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If I were to advise `Robinhood`, I would suggest they offer a real-time news and research platform similar to that of the Bloomberg Terminal. I would also advise `Robinhood` to develop a creator-based learning platoform similar to that of Udemy, edX and Coursera to allow for first time inverstors to gain more business savvy within the trading ecosystem.
 
-* Why do you think that offering this product or service would benefit the company?
+* I believe these two platforms would help `Robinhood` with user engagement, user retention and ultimately allow for their customers to become more well educated and masterful with their trading abilities which in turn should again help iwth user engagement and retention.
 
 * What technologies would this additional product or service utilize?
 
