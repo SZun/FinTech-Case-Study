@@ -5,7 +5,7 @@
 * Name of the company: **`Robinhood`/`Robinhood` Markets** 
 ![Robinhood Logo](./assets/robinhood-logo.png)
 
-* According to the **`Robinhood` Markets Wikipedia page** here: [Robinhood Wikipedia](https://tinyurl.com/robinhood-wikipedia]), `Robinhood` was incorporated *April 18th, 2013*. And on *July 28, 2021* `Robinhood` went public with an initial public offering of **$***38* per share. 
+* According to the **`Robinhood` Markets Wikipedia page** here: [Robinhood Wikipedia](https://tinyurl.com/robinhood-wikipedia]), `Robinhood` was incorporated *April 18th, 2013*. And on *July 28, 2021* `Robinhood` went public with an initial public offering of **$38** per share. 
 ![Robinhood Bell](./assets/rbh-bell.jpg)
 
 * According to the **`Robinhood` Markets Wikipedia page** here: [Robinhood Wikipedia](https://tinyurl.com/robinhood-wikipedia]), "`Robinhood` was founded in *April 2013* by **`Vladimir Tenev`** and **`Baiju Bhatt`**...". The two founders met at Stanford University, and after a brief stint working in FinTech in New York City, the pair moved back to California to start `Robinhood`. 
