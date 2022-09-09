@@ -52,10 +52,10 @@
 
 ## Recommendations
 
-* If I were to advise `Robinhood`, I would suggest they offer a real-time news and research platform similar to that of the Bloomberg Terminal. I would also advise `Robinhood` to develop a creator-based learning platoform similar to that of Udemy, edX and Coursera to allow for first time inverstors to gain more business savvy within the trading ecosystem.
+* If I were to advise `Robinhood`, I would suggest they offer a *real-time news and research* platform similar to that of the **Bloomberg Terminal**. I would also advise `Robinhood` to develop a *creator-based learning platform* similar to that of **Udemy, edX and Coursera** to allow for first time inverstors to gain more business savvy within the trading ecosystem.
 
-* I believe these two platforms would help `Robinhood` with user engagement, user retention and ultimately allow for their customers to become more well educated and masterful with their trading abilities which in turn should again help iwth user engagement and retention.
+* I believe these two platforms would help `Robinhood` with *user engagement, user retention* and ultimately allow for their customers to become more *well educated and masterful* with their trading abilities, which in turn should again help with *user engagement and retention*.
 
-* What technologies would this additional product or service utilize?
+* To achieve these new platforms/features I would suggest that `Robinhood` use Tensorflow to build reccurent neural networks that customize and forecast what the user may want to learn. I would also use the **Socket.io** library in conjunction with the **React** front-end to allow for classical *pub/sub* or **API's** from different news organizations in conjunction with the **ELK Stack** to give customers near real-time news updates based on their search queries.
 
 * Why are these technologies appropriate for your solution?
