@@ -36,13 +36,16 @@
 
 * Thre are  major trends that have disrupted the *Brokerage Firm Industry* and both have been employed by Robbinhood. The first is that `Robinhood`, unlike many older titans of the industry like Charles Schwab, is a discount brokerage and therefore charges **$***0.00* to minimal ammounts of commission. The second is that with the rise of smartphones many brokerage firms, including ***Charles Schwab, Fidelity, E-Trade, Coinbase, Ally Invest and Vanguard*** (*all pictured below*) now have **mobile-first apps**. This has allowed for anyone with a smartphone to participate in trading, opening up doors to many first-time traders. 
 
-![Schwab Mobile](./assets/Schwab-Mobile.jpeg) ![Fidelity Mobile](./assets/Fidelity-Mobile.png) ![E-Trade Mobile](./assets/E-Trade-Mobile.webp) ![Coinbase Mobile](./assets/Coinbase-Mobile.webp) ![Ally Mobile](./assets/Ally-Mobile.webp) ![Vanguard Mobile](./assets/vanguard-mobile.png)
+![Coinbase Mobile](./assets/Coinbase-Mobile.webp) ![Vanguard Mobile](./assets/vanguard-mobile.png) ![Schwab Mobile](./assets/Schwab-Mobile.jpeg)
 
 * According to this article from **The Ascent by Motley Fool** written by *`Lyle Daly`*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) some of `Robinhood`s major competitors include ***Charles Schwab, Fidelity, Bank of America/Merrill Lynch, Coinbase, Ally Invest, Vanguard and J.P. Morgan***. The article goes on to list the **AUM, number of accounts, and average assets per client** metrics, which make `Robinhood` one of the largest brokerage firms.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The two largest business impacts of `Robinhood` are that competitors like *Fidelity, E-Trade and Merill Lynch* are now all offering trades with no commission to compete with the likes of `Robinhood` and other discount brokerages of the like. This is a trend which `Robinhood` itself and new competitors popping up, like Webull, which uses the same discount brokerage's trend by also not charging commission. Both the older competitors and new competitors can be seen in this article on **Nerd Wallet** by *`Chris Davis`* here: [Discount Brokerage Firms](https://tinyurl.com/db-firms) as well as in the table below. Beyond this another major trend started by `Robinhood` is being **mobile-first**, as competitors like ***Charles Schwab, Fidelity, E-Trade, Coinbase, Ally Invest and Vanguard*** have all come out with their own *mobile applications* so as to compete with `Robinhood's` *mobile-first* application, some of which are pictured below.
+
+![DB Firms](./assets/db-firms.png)
+![Ally Mobile](./assets/Ally-Mobile.webp) ![E-Trade Mobile](./assets/E-Trade-Mobile.webp) ![Fidelity Mobile](./assets/Fidelity-Mobile.png) 
 
 * Three core metrics for both Brokerage Firms and `Robinhood` are assets under managment aka AUM, number of accounts on the platform aka number of clients and finally average assets per client. With these metrics we can see that `Robinhood` has ***$****0.19* ***Trillion AUM***, *7.2* ***Million*** accounts and the average assets per client is ***$****4,576*. This is according to this article from **The Ascent by Motley Fool** written by *`Lyle Daly`*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) and illustrated by the tables below that come from the same article. 
 
