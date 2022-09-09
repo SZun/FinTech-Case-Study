@@ -36,7 +36,7 @@
 
 * Thre are  major trends that have disrupted the *Brokerage Firm Industry* and both have been employed by Robbinhood. The first is that `Robinhood`, unlike many older titans of the industry like Charles Schwab, is a discount brokerage and therefore charges **$0.00** to minimal ammounts of commission. The second is that with the rise of smartphones many brokerage firms, including ***Charles Schwab, Fidelity, E-Trade, Coinbase, Ally Invest and Vanguard*** (*all pictured below*) now have **mobile-first apps**. This has allowed for anyone with a smartphone to participate in trading, opening up doors to many first-time traders. 
 
-![Coinbase Mobile](./assets/Coinbase-Mobile.webp) ![Vanguard Mobile](./assets/vanguard-mobile.png) ![Schwab Mobile](./assets/Schwab-Mobile.jpeg)
+![Vanguard Mobile](./assets/vanguard-mobile.png) ![Coinbase Mobile](./assets/Coinbase-Mobile.webp) ![Schwab Mobile](./assets/Schwab-Mobile.jpeg)
 
 * According to this article from **The Ascent by Motley Fool** written by *`Lyle Daly`*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) some of `Robinhood`s major competitors include ***Charles Schwab, Fidelity, Bank of America/Merrill Lynch, Coinbase, Ally Invest, Vanguard and J.P. Morgan***. The article goes on to list the **AUM, number of accounts, and average assets per client** metrics, which make `Robinhood` one of the largest brokerage firms.
 
