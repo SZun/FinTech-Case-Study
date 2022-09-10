@@ -15,11 +15,11 @@
 
 * According to an article from **SeekingAlpha** and by *`Kent Thun`e*: [Robinhood Revenues](https://tinyurl.com/robinhood-revenues) `Robinhood` is funded by: 
 
-1. *User Transactions*
-1. *Subscriber Fees*
-1. *Stock Loans/Margin Trading*
-1. *Cash Management Fees* 
-1. *Income from Cash and Fees on Transfers/other Services.* 
+1. ***User Transactions***
+1. ***Subscriber Fees***
+1. ***Stock Loans/Margin Trading***
+1. ***Cash Management Fees***
+1. ***Income from Cash and Fees on Transfers/other Services.*** 
 
 * ...Beyond these sources of income, another source of income for `Robinhood` is payment-for-order-flow. And according to **Crunchbase** here: [Robinhood Crunchbase (Financials)](https://tinyurl.com/robinhood-cb-financials) "`Robinhood` has raised **$6.2 Billion** over *27 rounds* and their latest round of funding was raised on *May 13, 2022* from a ***Post-IPO Secondary round***". This makes `Robinhood` one of the largest brokerage firms in the world, corroborated by this article here: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms).
 
