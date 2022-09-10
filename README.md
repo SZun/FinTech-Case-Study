@@ -44,12 +44,12 @@
 
 * Thre are  major trends that have disrupted the *Brokerage Firm Industry* and both have been employed by Robbinhood. The first is that `Robinhood`, unlike many older titans of the industry like Charles Schwab, is a discount brokerage and therefore charges **$0.00** to minimal ammounts of commission. The second is that with the rise of smartphones many brokerage firms, including:
  
-1. ***Charles Schwab*** 
-1. ***Fidelity*** 
-1. ***E-Trade***
-1. ***Coinbase***
-1. ***Ally Invest***
-1. ***Vanguard***
+1. **Charles Schwab**
+1. **Fidelity** 
+1. **E-Trade**
+1. **Coinbase**
+1. **Ally Invest**
+1. **Vanguard**
 
 * ...now have **mobile-first apps** (*pictured below*). This has allowed for anyone with a smartphone to participate in trading, opening up doors to many first-time traders. 
 
@@ -73,12 +73,12 @@
 
 * The two largest business impacts of `Robinhood` are that competitors like *Fidelity, E-Trade and Merill Lynch* are now all offering trades with no commission to compete with the likes of `Robinhood` and other discount brokerages of the like. This is a trend which `Robinhood` itself and new competitors popping up, like Webull, which uses the same discount brokerage's trend by also not charging commission. Both the older competitors and new competitors can be seen in this article on **Nerd Wallet** by *`Chris Davis`* here: [Discount Brokerage Firms](https://tinyurl.com/db-firms) as well as in the table below. Beyond this another major trend started by `Robinhood` is being **mobile-first**, as competitors like:
 
-1. ***Charles Schwab*** 
-1. ***Fidelity*** 
-1. ***E-Trade***
-1. ***Coinbase***
-1. ***Ally Invest***
-1. ***Vanguard***
+1. **Charles Schwab**
+1. **Fidelity** 
+1. **E-Trade**
+1. **Coinbase**
+1. **Ally Invest**
+1. **Vanguard**
 
 * ...have all come out with their own *mobile applications* so as to compete with `Robinhood's` *mobile-first* application, some of which are pictured below.
 
