@@ -13,7 +13,15 @@
 
 * According to the **`Robinhood` Our Story Page** here: [Robinhood Our Story](https://tinyurl.com/robinhood-our-story) the idea for `Robinhood` came up when: "[**`Vladimir Tenev`** and **`Baiju Bhatt`**]...realized that big Wall Street firms pay effectively nothing to trade stocks, while most Americans were charged commission for every trade. They soon decided it was more important to build products that would provide everyone with access to the financial markets, not just the wealthy. Two years after heading to New York, they moved back to California and built `Robinhood`—a company that leverages technology to encourage everyone to participate in our financial system." The way they do this is by both not charging commissions as well as having a more accessible mobile application.
 
-* According to an article from **SeekingAlpha** and by *`Kent Thun`e*: [Robinhood Revenues](https://tinyurl.com/robinhood-revenues) `Robinhood` is funded by ***User Transactions, Subscriber Fees, Stock Loans/Margin Trading, Cash Management Fees, Income from Cash and Fees on Transfers/other Services***. Beyond these sources of income, another source of income for `Robinhood` is payment-for-order-flow. And according to **Crunchbase** here: [Robinhood Crunchbase (Financials)](https://tinyurl.com/robinhood-cb-financials) "`Robinhood` has raised **$6.2 Billion** over *27 rounds* and their latest round of funding was raised on *May 13, 2022* from a ***Post-IPO Secondary round***". This makes `Robinhood` one of the largest brokerage firms in the world, corroborated by this article here: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms).
+* According to an article from **SeekingAlpha** and by *`Kent Thun`e*: [Robinhood Revenues](https://tinyurl.com/robinhood-revenues) `Robinhood` is funded by: 
+
+1. *User Transactions*
+1. *Subscriber Fees*
+1. *Stock Loans/Margin Trading*
+1. *Cash Management Fees* 
+1. *Income from Cash and Fees on Transfers/other Services.* 
+
+* ...Beyond these sources of income, another source of income for `Robinhood` is payment-for-order-flow. And according to **Crunchbase** here: [Robinhood Crunchbase (Financials)](https://tinyurl.com/robinhood-cb-financials) "`Robinhood` has raised **$6.2 Billion** over *27 rounds* and their latest round of funding was raised on *May 13, 2022* from a ***Post-IPO Secondary round***". This makes `Robinhood` one of the largest brokerage firms in the world, corroborated by this article here: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms).
 
 
 ## Business Activities
@@ -34,15 +42,45 @@
 
 * According to an artcle on **Investopedia** by *`Matthew Johnston`* here: [Investopedia Robinhood](https://tinyurl.com/robinhood-investopedia) "`Robinhood` is an ***online discount brokerage*** that offers a commission-free investing and trading platform". And though many brokerages provide trading platform such as *Chales Schwab's StreetSmart Edge* platform, most are not like `Robinhood` in the fact that they provide a mobile-first platform without commission fees.
 
-* Thre are  major trends that have disrupted the *Brokerage Firm Industry* and both have been employed by Robbinhood. The first is that `Robinhood`, unlike many older titans of the industry like Charles Schwab, is a discount brokerage and therefore charges **$0.00** to minimal ammounts of commission. The second is that with the rise of smartphones many brokerage firms, including ***Charles Schwab, Fidelity, E-Trade, Coinbase, Ally Invest and Vanguard*** (*all pictured below*) now have **mobile-first apps**. This has allowed for anyone with a smartphone to participate in trading, opening up doors to many first-time traders. 
+* Thre are  major trends that have disrupted the *Brokerage Firm Industry* and both have been employed by Robbinhood. The first is that `Robinhood`, unlike many older titans of the industry like Charles Schwab, is a discount brokerage and therefore charges **$0.00** to minimal ammounts of commission. The second is that with the rise of smartphones many brokerage firms, including:
+ 
+1. ***Charles Schwab*** 
+1. ***Fidelity*** 
+1. ***E-Trade***
+1. ***Coinbase***
+1. ***Ally Invest***
+1. ***Vanguard***
+
+* ...now have **mobile-first apps** (*pictured below*). This has allowed for anyone with a smartphone to participate in trading, opening up doors to many first-time traders. 
 
 ![Vanguard Mobile](./assets/vanguard-mobile.png) ![Coinbase Mobile](./assets/Coinbase-Mobile.webp) ![Schwab Mobile](./assets/Schwab-Mobile.jpeg)
 
-* According to this article from **The Ascent by Motley Fool** written by *`Lyle Daly`*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) some of `Robinhood`s major competitors include ***Charles Schwab, Fidelity, Bank of America/Merrill Lynch, Coinbase, Ally Invest, Vanguard and J.P. Morgan***. The article goes on to list the **AUM, number of accounts, and average assets per client** metrics, which make `Robinhood` one of the largest brokerage firms.
+* According to this article from **The Ascent by Motley Fool** written by *`Lyle Daly`*: [Largest Brokerage Firms](https://tinyurl.com/largest-brokerage-firms) some of `Robinhood`s major competitors include ***Charles Schwab, Fidelity, Bank of America/Merrill Lynch,, Ally Invest, Vanguard and ***. 
+
+1. ***Charles Schwab*** 
+1. ***Fidelity*** 
+1. ***E-Trade***
+1. ***Coinbase***
+1. ***Ally Invest***
+1. ***Bank of America/Merrill Lynch***
+1. ***Coinbase***
+1. ***Vanguard***
+1. ***J.P. Morgan***
+
+* ...The article goes on to list the **AUM, number of accounts, and average assets per client** metrics, which make `Robinhood` one of the largest brokerage firms.
 
 ## Results
 
-* The two largest business impacts of `Robinhood` are that competitors like *Fidelity, E-Trade and Merill Lynch* are now all offering trades with no commission to compete with the likes of `Robinhood` and other discount brokerages of the like. This is a trend which `Robinhood` itself and new competitors popping up, like Webull, which uses the same discount brokerage's trend by also not charging commission. Both the older competitors and new competitors can be seen in this article on **Nerd Wallet** by *`Chris Davis`* here: [Discount Brokerage Firms](https://tinyurl.com/db-firms) as well as in the table below. Beyond this another major trend started by `Robinhood` is being **mobile-first**, as competitors like ***Charles Schwab, Fidelity, E-Trade, Coinbase, Ally Invest and Vanguard*** have all come out with their own *mobile applications* so as to compete with `Robinhood's` *mobile-first* application, some of which are pictured below.
+* The two largest business impacts of `Robinhood` are that competitors like *Fidelity, E-Trade and Merill Lynch* are now all offering trades with no commission to compete with the likes of `Robinhood` and other discount brokerages of the like. This is a trend which `Robinhood` itself and new competitors popping up, like Webull, which uses the same discount brokerage's trend by also not charging commission. Both the older competitors and new competitors can be seen in this article on **Nerd Wallet** by *`Chris Davis`* here: [Discount Brokerage Firms](https://tinyurl.com/db-firms) as well as in the table below. Beyond this another major trend started by `Robinhood` is being **mobile-first**, as competitors like:
+
+1. ***Charles Schwab*** 
+1. ***Fidelity*** 
+1. ***E-Trade***
+1. ***Coinbase***
+1. ***Ally Invest***
+1. ***Vanguard***
+
+* ...have all come out with their own *mobile applications* so as to compete with `Robinhood's` *mobile-first* application, some of which are pictured below.
 
 ![DB Firms](./assets/db-firms.png)
 ![Ally Mobile](./assets/Ally-Mobile.webp) ![E-Trade Mobile](./assets/E-Trade-Mobile.webp) ![Fidelity Mobile](./assets/Fidelity-Mobile.png) 
